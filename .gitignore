@@ -1,0 +1,48 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+.env/
+.env.*
+
+# Django
+
+db.sqlite3
+*.log
+media/
+staticfiles/
+
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Streamlit
+
+.streamlit/
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# Cache
+
+.cache/
+
+
