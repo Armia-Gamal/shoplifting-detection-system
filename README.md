@@ -1,13 +1,5 @@
 # Shoplifting Detection System
 
-## Overview
-
-This project implements a full-stack AI-powered system for detecting shoplifting behavior from video sequences. It integrates deep learning, backend API development, and an interactive frontend into a unified production-style pipeline.
-
-The system leverages a convolutional neural network with temporal modeling to analyze video frames and classify activities as either normal or shoplifting. The backend is implemented using Django REST Framework, while the frontend is built with Streamlit for rapid interaction and visualization.
-
----
-
 ## Demo
 
 Place a demonstration file inside:
@@ -19,6 +11,14 @@ Place a demonstration file inside:
 Then embed it:
 
 ![Demo](demo/demo.gif)
+
+---
+
+## Overview
+
+This project implements a full-stack AI-powered system for detecting shoplifting behavior from video sequences. It integrates deep learning, backend API development, and an interactive frontend into a unified production-style pipeline.
+
+The system leverages a convolutional neural network with temporal modeling to analyze video frames and classify activities as either normal or shoplifting. The backend is implemented using Django REST Framework, while the frontend is built with Streamlit for rapid interaction and visualization.
 
 ---
 
