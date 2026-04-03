@@ -8,6 +8,20 @@ The system leverages a convolutional neural network with temporal modeling to an
 
 ---
 
+## Demo
+
+Place a demonstration file inside:
+
+```id="u1k0pz"
+/demo/demo.gif
+```
+
+Then embed it:
+
+![Demo](demo/demo.gif)
+
+---
+
 ## Key Features
 
 * End-to-end video classification pipeline
@@ -184,19 +198,6 @@ POST /api/predict/
 5. Sequence is passed to the model
 6. Prediction is returned as probability score
 
----
-
-## Demo
-
-Place a demonstration file inside:
-
-```id="u1k0pz"
-/demo/demo.gif
-```
-
-Then embed it:
-
-![Demo](demo/demo.gif)
 
 ---
 
