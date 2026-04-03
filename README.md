@@ -2,14 +2,6 @@
 
 ## Demo
 
-Place a demonstration file inside:
-
-```id="u1k0pz"
-/demo/demo.gif
-```
-
-Then embed it:
-
 ![Demo](demo/demo.gif)
 
 ---
